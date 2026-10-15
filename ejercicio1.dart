@@ -5,7 +5,7 @@ void main() {
   // 2. Calcular las horas completas (división entera)
   int horas = minutosTotales ~/ 60;
 
-  // 3. Calcular los minutos sueltos que sobran (residuo)
+  // 3. Caalcular los minutos sueltos que sobran (residuo)
   int minutosRestantes = minutosTotales % 60;
 
   // 4. Impresión en consola
